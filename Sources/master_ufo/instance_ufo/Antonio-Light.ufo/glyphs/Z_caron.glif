@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcaron" format="2">
+  <advance width="666.7857142857143"/>
+  <unicode hex="017D"/>
+  <anchor x="333.39285714285717" y="0.0" name="bottom"/>
+  <anchor x="333.39285714285717" y="880.0" name="center"/>
+  <anchor x="333.39285714285717" y="2175.6964285714284" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="caroncomb" xOffset="42.85714285714286" yOffset="260.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1588</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1904</integer>
+            <key>width</key>
+            <integer>294</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>69</integer>
+            <key>width</key>
+            <integer>577</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>88</integer>
+            <key>width</key>
+            <integer>539</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="921"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="887" y="0" type="line"/>
+      <point x="641" y="1760" type="line"/>
+      <point x="277" y="1760" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="180" type="line"/>
+      <point x="443" y="1531" type="line"/>
+      <point x="475" y="1531" type="line"/>
+      <point x="612" y="180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>180</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

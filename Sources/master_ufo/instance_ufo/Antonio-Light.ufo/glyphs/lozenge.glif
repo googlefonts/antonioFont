@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="921.0"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="344.85714285714283" y="0.0" type="line"/>
+      <point x="574.6071428571429" y="0.0" type="line"/>
+      <point x="829.1428571428571" y="883.0" type="line"/>
+      <point x="574.6071428571429" y="1760.0" type="line"/>
+      <point x="344.85714285714283" y="1760.0" type="line"/>
+      <point x="91.85714285714286" y="883.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="447.4642857142857" y="156.67857142857142" type="line"/>
+      <point x="264.5357142857143" y="883.0" type="line"/>
+      <point x="447.4642857142857" y="1594.2142857142858" type="line"/>
+      <point x="470.5357142857143" y="1594.2142857142858" type="line"/>
+      <point x="653.4642857142857" y="883.0" type="line"/>
+      <point x="470.5357142857143" y="156.67857142857142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1740</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

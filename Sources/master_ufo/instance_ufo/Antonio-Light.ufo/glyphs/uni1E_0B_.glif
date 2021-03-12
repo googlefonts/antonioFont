@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E0B" format="2">
+  <advance width="901.5"/>
+  <unicode hex="1E0B"/>
+  <anchor x="647.625" y="1780.7857142857142" name="#exit"/>
+  <anchor x="451.25" y="0.0" name="bottom"/>
+  <anchor x="581.0" y="1635.875" name="center"/>
+  <anchor x="662.0178571428571" y="2087.1428571428573" name="top"/>
+  <anchor x="881.5" y="1500.0" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="dotaccentcomb" xOffset="521.5178571428571" yOffset="280.3392857142857"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>154</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1346</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1759</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1901</integer>
+            <key>width</key>
+            <integer>269</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>124</integer>
+            <key>width</key>
+            <integer>206</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>354</integer>
+            <key>width</key>
+            <integer>208</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>586</integer>
+            <key>width</key>
+            <integer>206</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

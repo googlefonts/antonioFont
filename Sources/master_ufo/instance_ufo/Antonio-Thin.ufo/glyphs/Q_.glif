@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="891"/>
+  <unicode hex="0051"/>
+  <anchor x="446" y="0" name="bottom"/>
+  <anchor x="446" y="880" name="center"/>
+  <anchor x="802" y="10" name="ogonek"/>
+  <anchor x="446" y="1760" name="top"/>
+  <anchor x="20" y="1760" name="topleft"/>
+  <anchor x="871" y="1760" name="topright"/>
+  <outline>
+    <contour>
+      <point x="622" y="-389" type="line"/>
+      <point x="720" y="-337" type="line"/>
+      <point x="518" y="27" type="line"/>
+      <point x="409" y="-17" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="-20" type="curve" smooth="yes"/>
+      <point x="702" y="-20"/>
+      <point x="755" y="151"/>
+      <point x="755" y="519" type="curve" smooth="yes"/>
+      <point x="755" y="1268" type="line" smooth="yes"/>
+      <point x="755" y="1571"/>
+      <point x="736" y="1783"/>
+      <point x="454" y="1783" type="curve" smooth="yes"/>
+      <point x="172" y="1783"/>
+      <point x="136" y="1571"/>
+      <point x="136" y="1268" type="curve" smooth="yes"/>
+      <point x="136" y="519" type="line" smooth="yes"/>
+      <point x="136" y="151"/>
+      <point x="192" y="-20"/>
+    </contour>
+    <contour>
+      <point x="447" y="102" type="curve" smooth="yes"/>
+      <point x="314" y="102"/>
+      <point x="285" y="196"/>
+      <point x="285" y="519" type="curve" smooth="yes"/>
+      <point x="285" y="1281" type="line" smooth="yes"/>
+      <point x="285" y="1543"/>
+      <point x="320" y="1658"/>
+      <point x="454" y="1658" type="curve" smooth="yes"/>
+      <point x="581" y="1658"/>
+      <point x="606" y="1545"/>
+      <point x="606" y="1280" type="curve" smooth="yes"/>
+      <point x="606" y="519" type="line" smooth="yes"/>
+      <point x="606" y="196"/>
+      <point x="575" y="102"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1658</integer>
+            <key>width</key>
+            <integer>124</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>136</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>606</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

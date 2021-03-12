@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance width="465"/>
+  <unicode hex="013A"/>
+  <anchor x="198" y="1783" name="#exit"/>
+  <anchor x="233" y="0" name="bottom"/>
+  <anchor x="233" y="891" name="center"/>
+  <anchor x="233" y="2254" name="top"/>
+  <anchor x="445" y="1782" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="acutecomb" xOffset="96" yOffset="282"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1763</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1905</integer>
+            <key>width</key>
+            <integer>398</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>162</integer>
+            <key>width</key>
+            <integer>150</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>203</integer>
+            <key>width</key>
+            <integer>226</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

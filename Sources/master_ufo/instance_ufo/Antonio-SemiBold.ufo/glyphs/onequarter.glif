@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="1535.0"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="448.6666666666667" y="0.0" type="line"/>
+      <point x="605.0" y="0.0" type="line"/>
+      <point x="1092.75" y="1762.9166666666667" type="line"/>
+      <point x="936.4166666666666" y="1762.9166666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="242.5" y="529.4166666666666" type="line"/>
+      <point x="403.25" y="529.4166666666666" type="line"/>
+      <point x="403.25" y="1726.6666666666667" type="line"/>
+      <point x="289.9166666666667" y="1726.6666666666667" type="line"/>
+      <point x="261.75" y="1640.25"/>
+      <point x="165.0" y="1584.25"/>
+      <point x="92.91666666666667" y="1576.5" type="curve"/>
+      <point x="92.91666666666667" y="1470.9166666666667" type="line"/>
+      <point x="144.25" y="1470.9166666666667"/>
+      <point x="206.08333333333334" y="1488.6666666666667"/>
+      <point x="242.5" y="1523.75" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1190.4166666666667" y="0.0" type="line"/>
+      <point x="1330.1666666666667" y="0.0" type="line"/>
+      <point x="1330.1666666666667" y="207.75" type="line"/>
+      <point x="1411.4166666666667" y="207.75" type="line"/>
+      <point x="1411.4166666666667" y="324.5833333333333" type="line"/>
+      <point x="1330.1666666666667" y="324.5833333333333" type="line"/>
+      <point x="1330.1666666666667" y="1112.8333333333333" type="line"/>
+      <point x="1146.25" y="1112.8333333333333" type="line"/>
+      <point x="906.0833333333334" y="308.3333333333333" type="line"/>
+      <point x="906.0833333333334" y="207.75" type="line"/>
+      <point x="1190.4166666666667" y="207.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="1037.1666666666667" y="324.5833333333333" type="line"/>
+      <point x="1190.4166666666667" y="901.3333333333334" type="line"/>
+      <point x="1190.4166666666667" y="324.5833333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>219</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1508</integer>
+            <key>width</key>
+            <integer>96</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1740</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>250</integer>
+            <key>width</key>
+            <integer>147</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>297</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1190</integer>
+            <key>width</key>
+            <integer>126</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

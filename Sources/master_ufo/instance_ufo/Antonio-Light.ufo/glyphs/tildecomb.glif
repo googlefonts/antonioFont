@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="353.625" y="1500.0" name="_top"/>
+  <anchor x="353.625" y="1855.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="497.94642857142856" y="1640.0" type="curve" smooth="yes"/>
+      <point x="568.5892857142857" y="1640.0"/>
+      <point x="609.5714285714286" y="1662.0892857142858"/>
+      <point x="647.25" y="1793.3035714285713" type="curve"/>
+      <point x="656.25" y="1825.392857142857" type="line"/>
+      <point x="541.2857142857143" y="1853.8392857142858" type="line"/>
+      <point x="520.2857142857143" y="1793.8392857142858"/>
+      <point x="504.2857142857143" y="1785.392857142857"/>
+      <point x="485.2857142857143" y="1782.392857142857" type="curve"/>
+      <point x="481.2857142857143" y="1782.392857142857" type="line" smooth="yes"/>
+      <point x="431.2857142857143" y="1782.392857142857"/>
+      <point x="305.64285714285717" y="1855.5"/>
+      <point x="224.64285714285714" y="1855.5" type="curve" smooth="yes"/>
+      <point x="154.0" y="1855.5"/>
+      <point x="89.0" y="1843.6607142857142"/>
+      <point x="50.0" y="1708.6607142857142" type="curve"/>
+      <point x="152.96428571428572" y="1661.0" type="line"/>
+      <point x="170.96428571428572" y="1696.0"/>
+      <point x="181.96428571428572" y="1715.0"/>
+      <point x="203.96428571428572" y="1720.0" type="curve" smooth="yes"/>
+      <point x="210.96428571428572" y="1722.0"/>
+      <point x="218.96428571428572" y="1722.0"/>
+      <point x="226.96428571428572" y="1722.0" type="curve" smooth="yes"/>
+      <point x="309.9642857142857" y="1722.0"/>
+      <point x="409.94642857142856" y="1640.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>725</integer>
+    </dict>
+  </lib>
+</glyph>

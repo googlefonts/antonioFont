@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="912.3928571428571"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="382.44642857142856" y="1050.017857142857" type="line"/>
+      <point x="530.3928571428571" y="1050.017857142857" type="line"/>
+      <point x="508.17857142857144" y="1325.3392857142858" type="line"/>
+      <point x="733.2857142857143" y="1147.7857142857142" type="line"/>
+      <point x="808.4821428571429" y="1277.517857142857" type="line"/>
+      <point x="554.6071428571429" y="1413.642857142857" type="line"/>
+      <point x="808.4821428571429" y="1542.3214285714287" type="line"/>
+      <point x="733.2857142857143" y="1671.0535714285713" type="line"/>
+      <point x="508.17857142857144" y="1499.0535714285713" type="line"/>
+      <point x="530.3928571428571" y="1770.267857142857" type="line"/>
+      <point x="382.44642857142856" y="1770.267857142857" type="line"/>
+      <point x="409.2142857142857" y="1496.9464285714287" type="line"/>
+      <point x="179.10714285714286" y="1662.7142857142858" type="line"/>
+      <point x="103.91071428571429" y="1533.982142857143" type="line"/>
+      <point x="357.23214285714283" y="1413.642857142857" type="line"/>
+      <point x="110.80357142857143" y="1285.857142857143" type="line"/>
+      <point x="185.0" y="1155.6785714285713" type="line"/>
+      <point x="409.76785714285717" y="1329.892857142857" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1740</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

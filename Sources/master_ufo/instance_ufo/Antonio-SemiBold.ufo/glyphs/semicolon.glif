@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="561.0"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="187.5" y="-104.66666666666667" type="line"/>
+      <point x="319.0" y="-104.66666666666667" type="line"/>
+      <point x="430.9166666666667" y="279.75" type="line"/>
+      <point x="430.9166666666667" y="533.5833333333334" type="line"/>
+      <point x="172.83333333333334" y="533.5833333333334" type="line"/>
+      <point x="172.83333333333334" y="270.75" type="line"/>
+      <point x="270.1666666666667" y="270.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="168.66666666666666" y="1043.25" type="line"/>
+      <point x="417.8333333333333" y="1043.25" type="line"/>
+      <point x="417.8333333333333" y="1307.0" type="line"/>
+      <point x="168.66666666666666" y="1307.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>954</integer>
+            <key>width</key>
+            <integer>280</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>190</integer>
+            <key>width</key>
+            <integer>124</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>202</integer>
+            <key>width</key>
+            <integer>222</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

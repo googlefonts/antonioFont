@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <unicode hex="0302"/>
+  <anchor x="349.1666666666667" y="1500.0" name="_top"/>
+  <anchor x="349.1666666666667" y="1950.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="1640.0" type="line"/>
+      <point x="263.1666666666667" y="1640.0" type="line"/>
+      <point x="349.1666666666667" y="1857.9166666666667" type="line"/>
+      <point x="435.1666666666667" y="1640.0" type="line"/>
+      <point x="647.3333333333334" y="1640.0" type="line"/>
+      <point x="479.75" y="1950.75" type="line"/>
+      <point x="218.58333333333334" y="1950.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1468</integer>
+            <key>width</key>
+            <integer>292</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>85</integer>
+            <key>width</key>
+            <integer>539</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>639</integer>
+    </dict>
+  </lib>
+</glyph>

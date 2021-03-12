@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro" format="2">
+  <advance width="923.1785714285714"/>
+  <unicode hex="20AC"/>
+  <anchor x="475.3392857142857" y="0.0" name="bottom"/>
+  <anchor x="475.3392857142857" y="1760.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="61.660714285714285" y="734.3928571428571" type="line"/>
+      <point x="526.3035714285714" y="734.3928571428571" type="line"/>
+      <point x="526.3035714285714" y="860.0714285714286" type="line"/>
+      <point x="280.1607142857143" y="860.0714285714286" type="line"/>
+      <point x="280.1607142857143" y="974.9285714285714" type="line"/>
+      <point x="526.3035714285714" y="974.9285714285714" type="line"/>
+      <point x="526.3035714285714" y="1092.607142857143" type="line"/>
+      <point x="61.660714285714285" y="1092.607142857143" type="line"/>
+      <point x="61.660714285714285" y="974.9285714285714" type="line"/>
+      <point x="199.08928571428572" y="974.9285714285714" type="line"/>
+      <point x="199.08928571428572" y="860.0714285714286" type="line"/>
+      <point x="61.660714285714285" y="860.0714285714286" type="line"/>
+    </contour>
+    <component base="C" xOffset="27.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-21</integer>
+            <key>width</key>
+            <integer>176</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>721</integer>
+            <key>width</key>
+            <integer>148</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>966</integer>
+            <key>width</key>
+            <integer>140</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1602</integer>
+            <key>width</key>
+            <integer>177</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>124</integer>
+            <key>width</key>
+            <integer>207</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>164</integer>
+            <key>width</key>
+            <integer>90</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>606</integer>
+            <key>width</key>
+            <integer>203</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C</string>
+    </dict>
+  </lib>
+</glyph>
