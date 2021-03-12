@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni00B8" format="2">
-  <advance width="477.5892857142857"/>
-  <unicode hex="00B8"/>
-  <outline>
-    <component base="cedillacomb"/>
-  </outline>
-</glyph>
